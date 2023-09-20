@@ -1,0 +1,100 @@
+header{
+    width           : 90%;
+    position        : fixed;
+    z-index         : 999;
+    display         :flex;
+    justify-content : space-between;
+    /* align-items     : center; */
+    padding: 10px;
+    margin: 1px;
+
+
+}
+.logo{
+    text-decoration : none;
+    color           : rgb(102, 100, 100) ;
+    font-weight     : 700;
+    font-size: 1.4em;
+    margin: 2px;
+    
+}
+span{ 
+    color: rgba(36, 161, 36, 0.925);
+    font-size: 1.9em;
+
+
+}
+.navigation a{ 
+    text-decoration :none;
+    color           : rgb(8, 8, 8) ;
+    font-weight     :500;
+    font-size: 1.1em;
+    padding-left: 10px;
+
+
+}
+a:hovera{
+    color: rgb(62, 212, 62);
+}
+section{padding: 25px 50px 25px 50px;}
+main{
+    text-align: center;
+    margin: auto;
+     width: 50%;
+     padding: 90px;
+     display: block;
+    
+}
+h1{
+    color:rgba(36, 161, 36, 0.925);
+}
+p{
+        width: 250px;
+        height: 150px;
+        display: inline-block;
+        margin: 5px;
+        font-family: Arial;
+        text-align: left;
+        /* background-color: brown; */
+       
+}
+.block3{
+    text-align: center;
+    margin: auto;
+     width: 125%;
+     padding: 5px;
+     display: flex;
+     /* background-color: aqua; */
+     justify-content: space-between;
+     
+}
+.patients{  
+    background-color: white;  
+text-align: center;  
+line-height: 15px;  
+font-size: 15px;  
+margin: 5px; 
+background-color: rgb(54, 192, 73);
+
+    
+
+}
+.doctors{
+    background-color: white;  
+text-align: center;  
+line-height: 15px;  
+font-size: 15px;  
+margin: 5px;
+background-color: rgb(29, 29, 228);
+}
+.clinics{
+    background-color: white;  
+text-align: center;  
+line-height: 15px;  
+font-size: 15px;  
+margin: 5px;
+background-color: rgba(0, 0, 0, 0.781);
+}
+
+    
+
