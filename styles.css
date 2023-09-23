@@ -33,7 +33,13 @@ span{
 
 
 }
-a:hovera{
+#About:hover{
+    color: rgb(62, 212, 62);
+}
+#Career:hover{
+    color: rgb(62, 212, 62);
+}
+#Departments:hover{
     color: rgb(62, 212, 62);
 }
 section{padding: 25px 50px 25px 50px;}
@@ -95,6 +101,35 @@ font-size: 15px;
 margin: 5px;
 background-color: rgba(0, 0, 0, 0.781);
 }
+block4{
+    display: flex;
+  width: 300%;
+  /* justify-content: center; */
+  /* align-items: center; */
+  background-color: rgb(187, 138, 48);
+}
+block4 div{
+        
+    width:50px;
+    height: 50px;
+    display: inline-block;
+    margin: 5px;
+  
+
+}
+#class1{
+    font-size: 1.625em;
+  margin: 1.2em;
+  padding:10px;
+  color: #00b39b;
+  font-family: Arial;
+
+}
+
+#class2 img {
+    width: 8em;
+}
+
 
     
 
